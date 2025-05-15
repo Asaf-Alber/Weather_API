@@ -27,3 +27,11 @@ This Python-based project demonstrates a complete pipeline for interacting with 
 
 ## 📁 Project Structure
 
+weather_api_project/
+├── main.py # Entry point for running the project
+├── config.py # Stores API keys and config variables
+├── weather_data.py # Handles API calls and JSON parsing
+├── visualization.py # Generates visual reports (charts, graphs)
+├── email_notifications.py # Sends weather-based email alerts
+├── .gitignore # Ensures sensitive files are not committed
+└── README.md # Project documentation
