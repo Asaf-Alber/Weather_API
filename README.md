@@ -39,7 +39,7 @@ Edit
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/Asaf-Alber/Weather_API.git
 cd Weather_API
 2. Create and Activate a Virtual Environment (optional)
