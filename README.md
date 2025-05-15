@@ -88,7 +88,6 @@ python main.py
 
 ## 📈 Example Output
 
-### 🖥 Console Output
 
 ```
 Enter city name (default: 'London'): Tel Aviv
@@ -102,7 +101,7 @@ Weather: Clear sky
 
 ### 📊 Plot Example
 
-![5-Day Forecast Plot](forecast_plot.png)
+![5-Day Forecast Plot](forecast.png)
 
 
 ---
