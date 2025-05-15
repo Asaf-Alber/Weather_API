@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![OpenWeatherMap](https://img.shields.io/badge/API-OpenWeatherMap-orange)
+
 # 🌦️ Weather Data Pipeline with Visualization & Notifications
 
 This Python project fetches real-time and forecasted weather data from the OpenWeatherMap API, visualizes it using plots, and sends automated email alerts for important weather conditions.
@@ -98,7 +102,8 @@ Weather: Clear sky
 
 ### 📊 Plot Example
 
-> ![Example Forecast Plot](forecast.png)
+![5-Day Forecast Plot](forecast_plot.png)
+
 
 ---
 
