@@ -99,7 +99,7 @@ Email sent successfully!
 
 ### 📊 Plot Example
 
-> ![Example Forecast Plot](https://via.placeholder.com/600x300?text=Temperature+Forecast)
+> ![Example Forecast Plot](forecast.png)
 
 ---
 
