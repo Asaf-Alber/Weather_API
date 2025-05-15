@@ -87,14 +87,13 @@ python main.py
 ### 🖥 Console Output
 
 ```
-Enter city name (default: 'London'):
+Enter city name (default: 'London'): Tel Aviv
+Enter preferred language (leave blank for 'en'): en
+Using cached data for Tel Aviv
 Weather for Tel Aviv:
-Temperature: 28°C
-Humidity: 63%
+Temperature: 24.54°C
+Humidity: 58%
 Weather: Clear sky
-
-Plotting 5-day forecast...
-Email sent successfully!
 ```
 
 ### 📊 Plot Example
